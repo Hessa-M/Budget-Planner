@@ -34,27 +34,4 @@
         android:layout_gravity="center"
         android:textAlignment="center"/>
 
-    <TextView
-        android:id="@+id/textView2"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="@string/it448"
-        android:layout_margin="10dp"
-        android:textSize="20sp"
-        android:textColor="@color/colorPrimary"
-        android:layout_gravity="center"
-        android:textAlignment="center"/>
-
-    <TextView
-        android:id="@+id/textView3"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="@string/abdulrahman_almuhanna"
-        android:layout_margin="10dp"
-        android:textSize="20sp"
-        android:textColor="@color/colorPrimary"
-        android:layout_gravity="center"
-        android:textAlignment="center"/>
-
-
 </LinearLayout>
